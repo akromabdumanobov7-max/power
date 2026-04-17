@@ -241,9 +241,9 @@ export default function App() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { img: './images/pw30.png', fallback: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80', ...t.products.items[0] },
-              { img: './images/pool.png', fallback: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&q=80', ...t.products.items[1] },
-              { img: './images/pw50.png', fallback: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80', ...t.products.items[2] }
+              { img: './images/invertor-40.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/inverter-heat-pump-r32b0889b32-e169-4bf1-9548-f1a23e2cbe52.png', ...t.products.items[0] },
+              { img: './images/mono.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[1] },
+              { img: './images/comm.png', fallback: 'https://www.powerworldhp.com/uploads/38839/r290-commerical-heat-pump3fab2.jpg', ...t.products.items[2] }
             ].map((prod, idx) => (
               <motion.div
                 key={idx}
