@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
 import { Phone, Send, ShieldCheck, Zap, Leaf, Building2, Home, Droplets, MapPin, Instagram, Menu, X, CheckCircle2, Award, Settings } from 'lucide-react';
 import { translations } from './translations';
-import logo from '../public/images/logo.png';
+import logo from '/images/logo.png';
 
 export default function App() {
   const [lang, setLang] = useState<'ru' | 'uz'>('ru');
@@ -241,9 +241,9 @@ export default function App() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { img: './public/images/pw30.png', fallback: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80', ...t.products.items[0] },
-              { img: './public/images/pool.png', fallback: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&q=80', ...t.products.items[1] },
-              { img: './public/images/pw50.png', fallback: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80', ...t.products.items[2] }
+              { img: './images/pw30.png', fallback: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80', ...t.products.items[0] },
+              { img: './images/pool.png', fallback: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&q=80', ...t.products.items[1] },
+              { img: './images/pw50.png', fallback: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80', ...t.products.items[2] }
             ].map((prod, idx) => (
               <motion.div
                 key={idx}
