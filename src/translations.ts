@@ -44,9 +44,9 @@ export const translations = {
         { title: "Буферная емкость для воды PW-100", desc: "Буферная емкость PW-100 предназначена для накопления и поддержания стабильной температуры воды в системе отопления." },
         { title: "Буферная емкость для воды PW-200", desc: "Буферная емкость PW-200 предназначена для накопления и равномерного распределения тепла в системе отопления." },
         { title: "Ёмкость для горячей воды PW-300", desc: "Ёмкость для горячей воды PW-300 предназначена для накопления и стабилизации температуры воды в системе отопления." },
-        { title: "Фанкоил FP-2PGD", desc: "Фанкойл FP-2PGD предназначен для охлаждения и обогрева воздуха в помещениях с использованием системы водяного теплообмена." },
-        { title: "Фанкоил FP-102 ", desc: "Фанкойл FP-102 — компактный внутренний блок для охлаждения и обогрева помещений с низким уровнем шума и высокой эффективностью." },    
-        { title: " Фанкоил FP-85 ", desc: "Фанкойл FP-85 — компактный внутренний блок для охлаждения и обогрева помещений, обеспечивающий тихую работу и стабильную энергоэффективность." },     
+        { title: "Настенный Фанкоил FP-2PGD", desc: "Фанкойл FP-2PGD предназначен для охлаждения и обогрева воздуха в помещениях с использованием системы водяного теплообмена." },
+        { title: "Монтажный Фанкоил FP-102 ", desc: "Фанкойл FP-102 — компактный внутренний блок для охлаждения и обогрева помещений с низким уровнем шума и высокой эффективностью." },    
+        { title: "Напольный Фанкоил FP-85 ", desc: "Фанкойл FP-85 — компактный внутренний блок для охлаждения и обогрева помещений, обеспечивающий тихую работу и стабильную энергоэффективность." },     
       
       ]
     },
@@ -117,9 +117,9 @@ export const translations = {
         { title: "PW-100 suv bufer idishi", desc: "PW-100 suv bufer idishi isitish tizimida suvning barqaror haroratini saqlash va to'plash uchun mo'ljallangan." },
         { title: "PW-200 suv bufer idishi", desc: "PW-200 suv bufer idishi isitish tizimida issiqlikni to'plash va teng taqsimlash uchun mo'ljallangan." },
         { title: "PW-300 issiq suv saqlash idishi ", desc: "PW-300 issiq suv saqlash idishi isitish tizimida suvning haroratini saqlash va barqarorlashtirish uchun mo'ljallangan." },
-        { title: "FP-2PGD fancoil", desc: "FP-2PGD fancoil xonalarni sovutish va isitish uchun suvli issiqlik almashinuv tizimidan foydalanadi." },
-        { title: "FP-102 fancoil", desc: "FP-102 fancoil — past shovqin darajasi va yuqori samaradorlikka ega bo'lgan xonalarni sovutish va isitish uchun ixcham ichki blok." },    
-        { title: "FP-85 fancoil", desc: "FP-85 fancoil — xonalarni sovutish va isitish uchun mo'ljallangan, jim ishlash va barqaror energiya samaradorligini ta'minlaydigan ixcham ichki blok." },
+        { title: "FP-2PGD devorga o‘rnatiladigan fancoil", desc: "FP-2PGD fancoil xonalarni sovutish va isitish uchun suvli issiqlik almashinuv tizimidan foydalanadi." },
+        { title: "FP-102 montaj uchun mo‘ljallangan fancoil", desc: "FP-102 fancoil — past shovqin darajasi va yuqori samaradorlikka ega bo'lgan xonalarni sovutish va isitish uchun ixcham ichki blok." },    
+        { title: "FP-85 polga o‘rnatiladigan fancoil", desc: "FP-85 fancoil — xonalarni sovutish va isitish uchun mo'ljallangan, jim ishlash va barqaror energiya samaradorligini ta'minlaydigan ixcham ichki blok." },
       ]
     },
     target: {
