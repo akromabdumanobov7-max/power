@@ -37,9 +37,17 @@ export const translations = {
     products: {
       title: "Каталог товаров",
       items: [
-        { title: "Инверторный тепловой насос PW040", desc: "Тепловой насос может работать до температуры окружающего воздуха -30 ℃." },
-        { title: "Инверторный тепловой насос PW060", desc: "Эффективное поддержание комфортной температуры воды круглый год." },
-        { title: "Промышленные решения", desc: "Мощные и надежные системы для коммерческих и производственных объектов." }
+        { title: "Тепловой насос PW040", desc: "Тепловой насос может работать до температуры окружающего воздуха -30 ℃." },
+        { title: "Тепловой насос PW060", desc: "Эффективное поддержание комфортной температуры круглый год." },
+        { title: "Тепловой насос PW080", desc: "Современный тепловой насос для систем отопления и горячего водоснабжения." },
+        { title: "Промышленные решения", desc: "Мощные и надежные системы для коммерческих и производственных объектов." },
+        { title: "Буферная емкость для воды PW-100", desc: "Буферная емкость PW-100 предназначена для накопления и поддержания стабильной температуры воды в системе отопления." },
+        { title: "Буферная емкость для воды PW-200", desc: "Буферная емкость PW-200 предназначена для накопления и равномерного распределения тепла в системе отопления." },
+        { title: "Буферная емкость для воды PW-300", desc: "Буферная емкость PW-300 предназначена для накопления и стабилизации температуры воды в системе отопления." },
+        { title: "Фанкоил FP-2PGD", desc: "Фанкойл FP-2PGD предназначен для охлаждения и обогрева воздуха в помещениях с использованием системы водяного теплообмена." },
+        { title: "Фанкоил FP-102 ", desc: "Фанкойл FP-102 — компактный внутренний блок для охлаждения и обогрева помещений с низким уровнем шума и высокой эффективностью." },    
+        { title: " Фанкоил FP-85 ", desc: "Фанкойл FP-85 — компактный внутренний блок для охлаждения и обогрева помещений, обеспечивающий тихую работу и стабильную энергоэффективность." },     
+      
       ]
     },
     target: {
@@ -61,7 +69,7 @@ export const translations = {
       telegram: "Telegram",
       instagram: "Instagram",
       address: "Адрес",
-      addressText: "Узбекистан, г. Ташкент"
+      addressText: "Узбекистан, г. Ташкент,ул.Пушкина 7"
     }
   },
   uz: {
@@ -102,9 +110,16 @@ export const translations = {
     products: {
       title: "Bizning mahsulotlarimiz",
       items: [
-        { title: "Isitish uchun issiqlik nasoslari", desc: "Xususiy uylar va kottejlar uchun ideal yechim. Qishda issiq, yozda salqin." },
-        { title: "Hovuzlar uchun nasoslar", desc: "Yil davomida qulay suv haroratini samarali saqlash." },
-        { title: "Sanoat yechimlari", desc: "Tijorat va ishlab chiqarish obyektlari uchun kuchli va ishonchli tizimlar." }
+        { title: "PW040 issiqlik nasosi", desc: "Xususiy uylar va kottejlar uchun ideal yechim. Qishda issiq, yozda salqin." },
+        { title: "PW060 issiqlik nasosi", desc: "Yil davomida qulay suv haroratini samarali saqlash." },
+        { title: "PW080 issiqlik nasosi", desc: "Isitish tizimlari va issiq suv ta’minoti uchun zamonaviy, energiya tejamkor issiqlik nasosi." },
+        { title: "Sanoat yechimlari", desc: "Tijorat va ishlab chiqarish obyektlari uchun kuchli va ishonchli tizimlar." },
+        { title: "PW-100 suv bufer idishi", desc: "PW-100 suv bufer idishi isitish tizimida suvning barqaror haroratini saqlash va to'plash uchun mo'ljallangan." },
+        { title: "PW-200 suv bufer idishi", desc: "PW-200 suv bufer idishi isitish tizimida issiqlikni to'plash va teng taqsimlash uchun mo'ljallangan." },
+        { title: "PW-300 suv bufer idishi", desc: "PW-300 suv bufer idishi isitish tizimida suvning haroratini saqlash va barqarorlashtirish uchun mo'ljallangan." },
+        { title: "FP-2PGD fancoil", desc: "FP-2PGD fancoil xonalarni sovutish va isitish uchun suvli issiqlik almashinuv tizimidan foydalanadi." },
+        { title: "FP-102 fancoil", desc: "FP-102 fancoil — past shovqin darajasi va yuqori samaradorlikka ega bo'lgan xonalarni sovutish va isitish uchun ixcham ichki blok." },    
+        { title: "FP-85 fancoil", desc: "FP-85 fancoil — xonalarni sovutish va isitish uchun mo'ljallangan, jim ishlash va barqaror energiya samaradorligini ta'minlaydigan ixcham ichki blok." },
       ]
     },
     target: {
@@ -126,7 +141,7 @@ export const translations = {
       telegram: "Telegram",
       instagram: "Instagram",
       address: "Manzil",
-      addressText: "O'zbekiston, Toshkent sh."
+      addressText: "O'zbekiston, Toshkent sh., Pushkin ko'chasi 7"
     }
   }
 };

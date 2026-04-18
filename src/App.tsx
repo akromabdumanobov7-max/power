@@ -243,7 +243,14 @@ export default function App() {
             {[
               { img: './images/invertor-40.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/inverter-heat-pump-r32b0889b32-e169-4bf1-9548-f1a23e2cbe52.png', ...t.products.items[0] },
               { img: './images/mono.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[1] },
-              { img: './images/comm.png', fallback: 'https://www.powerworldhp.com/uploads/38839/r290-commerical-heat-pump3fab2.jpg', ...t.products.items[2] }
+              { img: './images/pw80.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[2] },
+              { img: './images/comm.png', fallback: 'https://www.powerworldhp.com/uploads/38839/r290-commerical-heat-pump3fab2.jpg', ...t.products.items[3] },
+              { img: './images/buffer.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[4] },
+              { img: './images/buffer23.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[5] },
+              { img: './images/buffer23.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[6] },
+              { img: './images/fanww.jpg', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[7] },
+              { img: './images/fanh.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[8] },
+              { img: './images/fanv.jpg', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[9] }
             ].map((prod, idx) => (
               <motion.div
                 key={idx}
@@ -362,13 +369,13 @@ export default function App() {
                 <li>
                   <a href="tel:+998200094094" className="flex items-center gap-3 hover:text-blue-400 transition-colors">
                     <Phone className="w-5 h-5 text-blue-500" />
-                    <span className="text-lg font-medium">+998 20 009 40 94</span>
+                    <span className="text-lg font-medium">+998 70 182 36 88</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://t.me/coopidooadmin" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#2AABEE] transition-colors">
+                  <a href="https://t.me/powerworld" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#2AABEE] transition-colors">
                     <Send className="w-5 h-5 text-[#2AABEE]" />
-                    <span className="text-lg font-medium">@coopidooadmin</span>
+                    <span className="text-lg font-medium">@powerworld</span>
                   </a>
                 </li>
                 <li>
