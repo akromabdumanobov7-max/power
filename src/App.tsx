@@ -247,7 +247,7 @@ export default function App() {
               { img: './images/comm.png', fallback: 'https://www.powerworldhp.com/uploads/38839/r290-commerical-heat-pump3fab2.jpg', ...t.products.items[3] },
               { img: './images/buffer.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[4] },
               { img: './images/buffer23.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[5] },
-              { img: './images/buffer23.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[6] },
+              { img: './images/tank.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[6] },
               { img: './images/fanww.jpg', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[7] },
               { img: './images/fanh.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[8] },
               { img: './images/fanv.jpg', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[9] }
