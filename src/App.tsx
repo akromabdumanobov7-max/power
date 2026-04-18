@@ -241,9 +241,9 @@ export default function App() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { img: './images/invertor-40.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/inverter-heat-pump-r32b0889b32-e169-4bf1-9548-f1a23e2cbe52.png', ...t.products.items[0] },
+              { img: './images/0040.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/inverter-heat-pump-r32b0889b32-e169-4bf1-9548-f1a23e2cbe52.png', ...t.products.items[0] },
               { img: './images/mono.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[1] },
-              { img: './images/pw80.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[2] },
+              { img: './images/mono.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[2] },
               { img: './images/comm.png', fallback: 'https://www.powerworldhp.com/uploads/38839/r290-commerical-heat-pump3fab2.jpg', ...t.products.items[3] },
               { img: './images/buffer.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[4] },
               { img: './images/buffer23.png', fallback: 'https://www.powerworldhp.com/uploads/202338839/monobloc-commercial-heating-air-source-heat78713dee-f3aa-44ee-8266-8b0e684245bb.jpg', ...t.products.items[5] },
