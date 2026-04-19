@@ -321,14 +321,14 @@ export default function App() {
 
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a
-              href="tel:+998200094094"
+              href="tel:+998701823688"
               className="inline-flex items-center justify-center gap-2 bg-white text-slate-900 hover:bg-slate-50 px-8 py-4 rounded-xl font-bold text-lg transition-all shadow-lg hover:-translate-y-1"
             >
               <Phone className="w-5 h-5" />
               {t.hero.call}
             </a>
             <a
-              href="https://t.me/coopidooadmin"
+              href="https://t.me/powerworld"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all shadow-lg hover:-translate-y-1"

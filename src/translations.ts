@@ -118,7 +118,7 @@ export const translations = {
         { title: "PW-200 suv bufer idishi", desc: "PW-200 suv bufer idishi isitish tizimida issiqlikni to'plash va teng taqsimlash uchun mo'ljallangan." },
         { title: "PW-300 issiq suv saqlash idishi ", desc: "PW-300 issiq suv saqlash idishi isitish tizimida suvning haroratini saqlash va barqarorlashtirish uchun mo'ljallangan." },
         { title: "FP-2PGD devorga o‘rnatiladigan fancoil", desc: "FP-2PGD fancoil xonalarni sovutish va isitish uchun suvli issiqlik almashinuv tizimidan foydalanadi." },
-        { title: "FP-102 montaj uchun mo‘ljallangan fancoil", desc: "FP-102 fancoil — past shovqin darajasi va yuqori samaradorlikka ega bo'lgan xonalarni sovutish va isitish uchun ixcham ichki blok." },    
+        { title: "FP-102  fancoil", desc: "FP-102 fancoil — past shovqin darajasi va yuqori samaradorlikka ega bo'lgan xonalarni sovutish va isitish uchun ixcham ichki blok." },    
         { title: "FP-85 polga o‘rnatiladigan fancoil", desc: "FP-85 fancoil — xonalarni sovutish va isitish uchun mo'ljallangan, jim ishlash va barqaror energiya samaradorligini ta'minlaydigan ixcham ichki blok." },
       ]
     },
