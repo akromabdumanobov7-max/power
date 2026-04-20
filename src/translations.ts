@@ -69,7 +69,7 @@ export const translations = {
       telegram: "Telegram",
       instagram: "Instagram",
       address: "Адрес",
-      addressText: "Узбекистан, г. Ташкент,ул.Пушкина 7"
+      addressText: "Узбекистан, г. Ташкент,1-й проезд Дархан, 7"
     }
   },
   uz: {
@@ -141,7 +141,7 @@ export const translations = {
       telegram: "Telegram",
       instagram: "Instagram",
       address: "Manzil",
-      addressText: "O'zbekiston, Toshkent sh., Pushkin ko'chasi 7"
+      addressText: "O'zbekiston, Toshkent sh., Darxon 1-tor ko‘cha, 7"
     }
   }
 };
