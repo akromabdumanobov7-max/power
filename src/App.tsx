@@ -127,14 +127,14 @@ export default function App() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="tel:+998200094094"
+                href="tel:+998701823688"
                 className="inline-flex items-center justify-center gap-2 bg-white hover:bg-slate-50 text-slate-900 px-8 py-4 rounded-xl font-semibold text-lg transition-all shadow-lg hover:-translate-y-1"
               >
                 <Phone className="w-5 h-5" />
                 {t.hero.call}
               </a>
               <a
-                href="https://t.me/coopidooadmin"
+                href="https://t.me/powerworld"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all shadow-lg hover:-translate-y-1"
@@ -354,7 +354,7 @@ export default function App() {
                 {t.about.desc}
               </p>
               <div className="flex items-center gap-4">
-                <a href="https://t.me/coopidooadmin" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-[#2AABEE] hover:text-white transition-colors">
+                <a href="https://t.me/powerworld" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-[#2AABEE] hover:text-white transition-colors">
                   <Send className="w-5 h-5" />
                 </a>
                 <a href="https://instagram.com/powerworld.uz" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-pink-600 hover:text-white transition-colors">
@@ -367,7 +367,7 @@ export default function App() {
               <h3 className="text-white font-bold text-lg mb-6">{t.contacts.title}</h3>
               <ul className="space-y-4">
                 <li>
-                  <a href="tel:+998200094094" className="flex items-center gap-3 hover:text-blue-400 transition-colors">
+                  <a href="tel:+998701823688" className="flex items-center gap-3 hover:text-blue-400 transition-colors">
                     <Phone className="w-5 h-5 text-blue-500" />
                     <span className="text-lg font-medium">+998 70 182 36 88</span>
                   </a>
