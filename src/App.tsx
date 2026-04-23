@@ -134,7 +134,7 @@ export default function App() {
                 {t.hero.call}
               </a>
               <a
-                href="https://t.me/powerworld"
+                href="https://t.me/powerworld_uz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all shadow-lg hover:-translate-y-1"
