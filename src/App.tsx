@@ -150,7 +150,7 @@ export default function App() {
       {/* About Section */}
       <section id="about" className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+          <div className="grid grid-cols-1 lg:grid-cols-1 gap-16 items-center">
             <motion.div
               initial={{ opacity: 0, x: -30 }}
               whileInView={{ opacity: 1, x: 0 }}
@@ -172,22 +172,22 @@ export default function App() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="grid grid-cols-2 gap-4"
+              className="gap-4"
             >
-              <div className="space-y-4">
-                <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+              <div className="flex flex-wrap gap-6 mt-8">
+                <div className="w-full md:w-[calc(33.333%-1rem)] bg-slate-50 p-6 rounded-2xl border border-slate-100">
                   <Award className="w-10 h-10 text-blue-600 mb-4" />
                   <h3 className="font-bold text-slate-900 mb-2">{t.whyUs.items[0].title}</h3>
                   <p className="text-sm text-slate-600">{t.whyUs.items[0].desc}</p>
                 </div>
-                <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+
+                <div className="w-full md:w-[calc(33.333%-1rem)] bg-slate-50 p-6 rounded-2xl border border-slate-100">
                   <ShieldCheck className="w-10 h-10 text-blue-600 mb-4" />
                   <h3 className="font-bold text-slate-900 mb-2">{t.whyUs.items[1].title}</h3>
                   <p className="text-sm text-slate-600">{t.whyUs.items[1].desc}</p>
                 </div>
-              </div>
-              <div className="space-y-4 mt-8">
-                <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+
+                <div className="w-full md:w-[calc(33.333%-1rem)] bg-slate-50 p-6 rounded-2xl border border-slate-100">
                   <Settings className="w-10 h-10 text-blue-600 mb-4" />
                   <h3 className="font-bold text-slate-900 mb-2">{t.whyUs.items[2].title}</h3>
                   <p className="text-sm text-slate-600">{t.whyUs.items[2].desc}</p>
@@ -238,6 +238,7 @@ export default function App() {
             <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">{t.products.title}</h2>
             <div className="w-20 h-1.5 bg-blue-600 mx-auto rounded-full"></div>
           </div>
+          
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
@@ -328,7 +329,7 @@ export default function App() {
               {t.hero.call}
             </a>
             <a
-              href="https://t.me/powerworld"
+              href="https://t.me/powerworld_uz"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all shadow-lg hover:-translate-y-1"
@@ -354,7 +355,7 @@ export default function App() {
                 {t.about.desc}
               </p>
               <div className="flex items-center gap-4">
-                <a href="https://t.me/powerworld" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-[#2AABEE] hover:text-white transition-colors">
+                <a href="https://t.me/powerworld_uz" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-[#2AABEE] hover:text-white transition-colors">
                   <Send className="w-5 h-5" />
                 </a>
                 <a href="https://instagram.com/powerworld.uz" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-pink-600 hover:text-white transition-colors">
@@ -373,7 +374,7 @@ export default function App() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://t.me/powerworld" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#2AABEE] transition-colors">
+                  <a href="https://t.me/powerworld_uz" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#2AABEE] transition-colors">
                     <Send className="w-5 h-5 text-[#2AABEE]" />
                     <span className="text-lg font-medium">@powerworld</span>
                   </a>
