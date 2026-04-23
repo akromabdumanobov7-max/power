@@ -110,16 +110,16 @@ export const translations = {
     products: {
       title: "Bizning mahsulotlarimiz",
       items: [
-        { title: "PW040 issiqlik nasosi", desc: "Xususiy uylar va kottejlar uchun ideal yechim. Qishda issiq, yozda salqin." },
-        { title: "PW060 issiqlik nasosi", desc: "Yil davomida qulay suv haroratini samarali saqlash." },
-        { title: "PW080 issiqlik nasosi", desc: "Isitish tizimlari va issiq suv ta’minoti uchun zamonaviy, energiya tejamkor issiqlik nasosi." },
+        { title: "PW040 issiqlik nasosi", desc: "Elektr ta’minoti: 230V/1Ph/50-60Hz\n\nMaksimal issiqlik quvvati: 13 kVt\n\nIsitishdagi maksimal energiya sarfi: 3,12 kVt\n\nMaksimal sovutish quvvati: 8,20 kVt\n\nSovutishdagi maksimal energiya sarfi: 3,41 kVt\n\nMaksimal COP (issiqlik koeffitsiyenti): 4,63\n\nMaksimal EER (sovutish koeffitsiyenti): 3,11\n\nIshchi harorat oralig‘i: -30/+43°C" },
+        { title: "PW060 issiqlik nasosi", desc: "Elektr ta’minoti: 380V/3Ph/50-60Hz\n\nMaksimal issiqlik quvvati: 23 kVt\n\nIsitishdagi maksimal energiya sarfi: 5,38 kVt\n\nMaksimal sovutish quvvati: 14,6 kVt\n\nSovutishdagi maksimal energiya sarfi: 5,29 kVt\n\nMaksimal COP (issiqlik koeffitsiyenti): 4,66\n\nMaksimal EER (sovutish koeffitsiyenti): 3,22\n\nIshchi harorat oralig‘i: -30/+43°C" },
+        { title: "PW080 issiqlik nasosi", desc: "Elektr ta’minoti: 380V/3Ph/50-60Hz\n\nMaksimal issiqlik quvvati: 28 kVt\n\nIsitishdagi maksimal energiya sarfi: 6,56 kVt\n\nMaksimal sovutish quvvati: 19,8 kVt\n\nSovutishdagi maksimal energiya sarfi: 7,17 kVt\n\nMaksimal COP (issiqlik koeffitsiyenti): 4,70\n\nMaksimal EER (sovutish koeffitsiyenti): 3,24\n\nIshchi harorat oralig‘i: -30/+43°C" },
         { title: "Sanoat yechimlari", desc: "Tijorat va ishlab chiqarish obyektlari uchun kuchli va ishonchli tizimlar." },
         { title: "PW-100 suv bufer idishi", desc: "PW-100 suv bufer idishi isitish tizimida suvning barqaror haroratini saqlash va to'plash uchun mo'ljallangan." },
         { title: "PW-200 suv bufer idishi", desc: "PW-200 suv bufer idishi isitish tizimida issiqlikni to'plash va teng taqsimlash uchun mo'ljallangan." },
         { title: "PW-300 issiq suv saqlash idishi ", desc: "PW-300 issiq suv saqlash idishi isitish tizimida suvning haroratini saqlash va barqarorlashtirish uchun mo'ljallangan." },
-        { title: "FP-2PGD devorga o‘rnatiladigan fancoil", desc: "FP-2PGD fancoil xonalarni sovutish va isitish uchun suvli issiqlik almashinuv tizimidan foydalanadi." },
-        { title: "FP-102  fancoil", desc: "FP-102 fancoil — past shovqin darajasi va yuqori samaradorlikka ega bo'lgan xonalarni sovutish va isitish uchun ixcham ichki blok." },    
-        { title: "FP-85 polga o‘rnatiladigan fancoil", desc: "FP-85 fancoil — xonalarni sovutish va isitish uchun mo'ljallangan, jim ishlash va barqaror energiya samaradorligini ta'minlaydigan ixcham ichki blok." },
+        { title: "FP-2PGD devorga o‘rnatiladigan fancoil", desc: "Sovutish quvvati: 2,71 kVt\n\nIsitish quvvati: 5,1 kVt" },
+        { title: "FP-102  fancoil", desc: "Sovutish quvvati: 5,46 kVt\n\nIsitish quvvati: 8,69 kVt" },    
+        { title: "FP-85 polga o‘rnatiladigan fancoil", desc: "Sovutish quvvati: 4,53 kVt\n\nIsitish quvvati: 7,18 kVt" },
       ]
     },
     target: {
