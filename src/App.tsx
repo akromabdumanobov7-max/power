@@ -376,7 +376,7 @@ export default function App() {
                 <li>
                   <a href="https://t.me/powerworld_uz" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#2AABEE] transition-colors">
                     <Send className="w-5 h-5 text-[#2AABEE]" />
-                    <span className="text-lg font-medium">@powerworld</span>
+                    <span className="text-lg font-medium">@powerworld_uz</span>
                   </a>
                 </li>
                 <li>
