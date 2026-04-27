@@ -96,7 +96,7 @@ export default function App() {
       <section id="home" className="relative min-h-screen flex items-center pt-20 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="/images/hero.jpg"
+            src="images/foon.png"
             alt="Hero Background"
             className="w-full h-full object-cover object-center"
             onError={(e) => {
