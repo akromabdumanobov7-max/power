@@ -3,6 +3,7 @@ import { motion } from 'motion/react';
 import { Phone, Send, ShieldCheck, Zap, Leaf, Building2, Home, Droplets, MapPin, Instagram, Menu, X, CheckCircle2, Award, Settings } from 'lucide-react';
 import { translations } from './translations';
 import logo from '/images/logo.png';
+import { Analytics } from '@vercel/analytics/next';
 
 export default function App() {
   const [lang, setLang] = useState<'ru' | 'uz'>('ru');
