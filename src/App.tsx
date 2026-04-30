@@ -399,7 +399,7 @@ export default function App() {
           </div>
 
           <div className="mt-16 pt-8 border-t border-slate-800 text-center text-slate-500 text-sm">
-            &copy; {new Date().getFullYear()} Power World Uzbekistan. All rights reserved.
+            &copy; {new Date().getFullYear()} Power World Uzbekistan. All rights reserved. Powered by @a_abdmnbv
           </div>
         </div>
       </footer>
